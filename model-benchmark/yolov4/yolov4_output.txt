@@ -1,0 +1,9 @@
+loading annotations into memory...
+Done (t=0.36s)
+creating index...
+index created!
+Number of Images to be processed: 5000
+
+- Device: CPU
+ - model: yolov4.onnx, mConfidence: 0.7223380758, mFPS: 11.0684118688, mAcc: 0.6306393082
+

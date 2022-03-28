@@ -1,0 +1,6 @@
+loading annotations into memory...
+Done (t=0.36s)
+creating index...
+index created!
+Number of Images to be processed: 5000
+
